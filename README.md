@@ -5,3 +5,4 @@ kolejna zmiana w testzbych
 test3
 test4
 test5
+test 6
